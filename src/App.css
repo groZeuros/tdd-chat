@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  margin: auto;
+  user-select: none;
+}
+
+.bold{
+	font-weight: normal;
+}

@@ -1,0 +1,22 @@
+.Chat {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  background: #ff9e2c 0%;
+}
+
+.messageSection{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  height: 400px;
+  width: 600px;
+  overflow: scroll;
+}
+
+.textSection{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  height: 100px;
+}
